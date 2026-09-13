@@ -41,14 +41,3 @@
 | **B7** | Multithreaded Programming Suite | Thread lifecycle, `Thread` class, `Runnable` interface | `Part-B/Lab07_MultithreadingDemo.java` |
 
 ---
-
-## 📋 Discount Scheme Reference (Part-B: Program 1)
-
-| Purchase Range (₹) | Mill Cloth Discount | Handloom Items Discount |
-|---|---|---|
-| **0 – 100** | 0% (Nil) | 5.0% |
-| **101 – 200** | 5.0% | 7.5% |
-| **201 – 300** | 7.5% | 10.0% |
-| **Above 300** | 10.0% | 15.0% |
-
----
