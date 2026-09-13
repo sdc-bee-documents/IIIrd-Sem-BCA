@@ -44,7 +44,7 @@ Fundamental syntax, JVM architecture, basic data types, and primary flow-control
 - [ ] **Chapter 1 - Introduction to Java:** [Read Notes](https://github.com/sdc-bee-documents/IIIrd-Sem-BCA/blob/main/Notes/Java/Unit%20-%201/Chapter%201%20-%20Introduction%20to%20Java.pdf)
   - History, evolution, and features of Java (simple, secure, portable, robust)
   - Java Virtual Machine (JVM), JDK vs. JRE architecture
-- [ ] **Chapter 2 - Overview of Java Language:** [Read Notes](./Unit-1/Chapter-2-Overview-of-Java-Language.md)
+- [ ] **Chapter 2 - Overview of Java Language:** [Read Notes]([./Unit-1/Chapter-2-Overview-of-Java-Language.md](https://github.com/sdc-bee-documents/IIIrd-Sem-BCA/blob/main/Notes/Java/Unit%20-%201/Chapter%202%20-%20Overview%20of%20Java%20Language.pdf))
   - Structure of a Java program, class declaration, `main()` signature breakdown
   - Source file naming conventions and bytecode compilation
 - [ ] **Chapter 3 - Constants, Variables and Data Types:** [Read Notes](./Unit-1/Chapter-3-Constants-Variables-and-Data-Types.md)
