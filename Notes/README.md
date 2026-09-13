@@ -41,7 +41,7 @@
 
 Fundamental syntax, JVM architecture, basic data types, and primary flow-control logic.
 
-- [ ] **Chapter 1 - Introduction to Java:** [Read Notes](./Unit-1/Chapter-1-Introduction-to-Java.md)
+- [ ] **Chapter 1 - Introduction to Java:** [Read Notes](Notes/Java/Unit - 1/Chapter 1 - Introduction to Java.pdf)
   - History, evolution, and features of Java (simple, secure, portable, robust)
   - Java Virtual Machine (JVM), JDK vs. JRE architecture
 - [ ] **Chapter 2 - Overview of Java Language:** [Read Notes](./Unit-1/Chapter-2-Overview-of-Java-Language.md)
