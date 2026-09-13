@@ -47,7 +47,7 @@ Fundamental syntax, JVM architecture, basic data types, and primary flow-control
 - [ ] **Chapter 2 - Overview of Java Language:** [Read Notes]([./Unit-1/Chapter-2-Overview-of-Java-Language.md](https://github.com/sdc-bee-documents/IIIrd-Sem-BCA/blob/main/Notes/Java/Unit%20-%201/Chapter%202%20-%20Overview%20of%20Java%20Language.pdf))
   - Structure of a Java program, class declaration, `main()` signature breakdown
   - Source file naming conventions and bytecode compilation
-- [ ] **Chapter 3 - Constants, Variables and Data Types:** [Read Notes](./Unit-1/Chapter-3-Constants-Variables-and-Data-Types.md)
+- [ ] **Chapter 3 - Constants, Variables and Data Types:** [Read Notes]([./Unit-1/Chapter-3-Constants-Variables-and-Data-Types.md](https://github.com/sdc-bee-documents/IIIrd-Sem-BCA/blob/main/Notes/Java/Unit%20-%201/Chapter%203%20-%20Constants%2C%20Variables%20and%20Data%20types.pdf))
   - Primitive data types, memory footprints, and default values
   - Type conversion, type casting, identifiers, and literals
 - [ ] **Chapter 4 - Operators and Expressions:** [Read Notes](./Unit-1/Chapter-4-Operators-and-Expressions.md)
