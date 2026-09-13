@@ -41,3 +41,12 @@
 | **B7** | Multithreaded Programming Suite | Thread lifecycle, `Thread` class, `Runnable` interface | `Part-B/Multithread.java` |
 
 ---
+
+| Detail | Information |
+|---|---|
+| **Course Faculty / Author** | **Asst. Prof. Abhilash B J**, M.B.A (Data Science and Analytics) |
+| **Designation** | Assistant Professor |
+| **Department** | Department of Computer Applications (BCA) & Department of Post Gradutate (PG) |
+| **Course Taught** | OOPs using Java Programming (BCA Semester III) |
+| **Institution** | [SDC College for Arts, Commerce, Science and Management Studies] |
+| **Academic Session** | SEP - Bangalore North University |
