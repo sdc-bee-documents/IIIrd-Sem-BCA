@@ -36,7 +36,11 @@
 | **A4** | Comprehensive String Operations | String manipulation, immutability, built-in methods | `Part-A/StrOper.java` |
 | **A5** | Geometric Area Calculation | Modular design, parameter passing, return values | `Part-A/Area.java` |
 | **A6** | Constructor Overloading Demonstration | Object initialization, parameterized constructors | `Part-A/ExConstructor.java` |
-| **A7** | Bonus Calculation via Method Overloading | Compile-time polymorphism, signature differentiation | `Part-A/Bonus.java` |
+| **A7** | Student Report via Applet | Applet viewer, HTML, Inheritance and Interface  | `Part-A/StudentReport.java` |
+| **A8** | Bonus Calculation via Method Overloading | Compile-time polymorphism, signature differentiation | `Part-A/Bonus.java` |
+| **A9** | Ball Moving via Applet | Thread, Graphics and Applet | `Part-A/BallMoving.java` |
+| **A10 (a)** | Mouse Event via Applet | Applet viewer, HTML and Inheritance | `Part-A/Mouse.java` |
+| **A10 (b)** | Keyboard Event via Applet | Applet viewer, HTML and Inheritance | `Part-A/Keyboard.java` |
 
 ---
 
@@ -51,6 +55,9 @@
 | **B5** | Class & Object Encapsulation | State/behavior abstraction, instantiations, getters/setters | `Part-B/Rectangle.java` |
 | **B6** | Multiple Inheritance via Interfaces | Interface implementation, resolving multiple inheritance | `Part-B/Multiple.java` |
 | **B7** | Multithreaded Programming Suite | Thread lifecycle, `Thread` class, `Runnable` interface | `Part-B/Multithread.java` |
+| **B8** | Multithreaded Programming Suite | Thread lifecycle, `Thread` class, `Runnable` interface | `Part-B/Multithread.java` |
+| **B9** | Multithreaded Programming Suite | Thread lifecycle, `Thread` class, `Runnable` interface | `Part-B/Multithread.java` |
+| **B10** | Multithreaded Programming Suite | Thread lifecycle, `Thread` class, `Runnable` interface | `Part-B/Multithread.java` |
 
 ---
 
