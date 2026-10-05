@@ -55,9 +55,9 @@
 | **B5** | Class & Object Encapsulation | State/behavior abstraction, instantiations, getters/setters | `Part-B/Rectangle.java` |
 | **B6** | Multiple Inheritance via Interfaces | Interface implementation, resolving multiple inheritance | `Part-B/Multiple.java` |
 | **B7** | Multithreaded Programming Suite | Thread lifecycle, `Thread` class, `Runnable` interface | `Part-B/Multithread.java` |
-| **B8** | Multithreaded Programming Suite | Thread lifecycle, `Thread` class, `Runnable` interface | `Part-B/Multithread.java` |
-| **B9** | Multithreaded Programming Suite | Thread lifecycle, `Thread` class, `Runnable` interface | `Part-B/Multithread.java` |
-| **B10** | Multithreaded Programming Suite | Thread lifecycle, `Thread` class, `Runnable` interface | `Part-B/Multithread.java` |
+| **B8** | Sum using User Input via Applet | Thread lifecycle, `Thread` class, Applet and Inheritance | `Part-B/Userinput.java` |
+| **B9** | Face Diagram via Applet | Thread lifecycle, `Thread` class, Applet and Inheritance | `Part-B/Face.java` |
+| **B10** | Bar Chart via Applet | Thread lifecycle, `Thread` class, Applet and Inheritance | `Part-B/ExBarchart.java` |
 
 ---
 
