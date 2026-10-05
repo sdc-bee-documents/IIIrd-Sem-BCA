@@ -31,16 +31,16 @@
 | # | Program Title | Key Concepts | Source File |
 |---|---|---|---|
 | **A1** | Factorial of Numbers via CLI | Command-line arguments, iterative/recursive math | ([`Part-A/Factorial.java`](https://github.com/sdc-bee-documents/IIIrd-Sem-BCA/blob/main/Lab%20Programs/Java/Java%20Lab%20Programs%20-%20Part%20A.pdf)) |
-| **A2** | Prime Numbers Between Two Limits | Range searching, primality test algorithms | `Part-A/Prime.java` |
-| **A3** | Array Sorting with Exception Handling | ASC/DESC sorting, `try-catch-finally`, bounds check | `Part-A/Sort.java` |
-| **A4** | Comprehensive String Operations | String manipulation, immutability, built-in methods | `Part-A/StrOper.java` |
-| **A5** | Geometric Area Calculation | Modular design, parameter passing, return values | `Part-A/Area.java` |
-| **A6** | Constructor Overloading Demonstration | Object initialization, parameterized constructors | `Part-A/ExConstructor.java` |
-| **A7** | Student Report via Applet | Applet viewer, HTML, Inheritance and Interface  | `Part-A/StudentReport.java` |
-| **A8** | Bonus Calculation via Method Overloading | Compile-time polymorphism, signature differentiation | `Part-A/Bonus.java` |
-| **A9** | Ball Moving via Applet | Thread, Graphics and Applet | `Part-A/BallMoving.java` |
-| **A10 (a)** | Mouse Event via Applet | Applet viewer, HTML and Inheritance | `Part-A/Mouse.java` |
-| **A10 (b)** | Keyboard Event via Applet | Applet viewer, HTML and Inheritance | `Part-A/Keyboard.java` |
+| **A2** | Prime Numbers Between Two Limits | Range searching, primality test algorithms | ([`Part-A/Prime.java`](https://github.com/sdc-bee-documents/IIIrd-Sem-BCA/blob/main/Lab%20Programs/Java/Java%20Lab%20Programs%20-%20Part%20A.pdf)) |
+| **A3** | Array Sorting with Exception Handling | ASC/DESC sorting, `try-catch-finally`, bounds check | ([`Part-A/Sort.java`](https://github.com/sdc-bee-documents/IIIrd-Sem-BCA/blob/main/Lab%20Programs/Java/Java%20Lab%20Programs%20-%20Part%20A.pdf)) |
+| **A4** | Comprehensive String Operations | String manipulation, immutability, built-in methods | ([`Part-A/StrOper.java`](https://github.com/sdc-bee-documents/IIIrd-Sem-BCA/blob/main/Lab%20Programs/Java/Java%20Lab%20Programs%20-%20Part%20A.pdf)) |
+| **A5** | Geometric Area Calculation | Modular design, parameter passing, return values | ([`Part-A/Area.java`](https://github.com/sdc-bee-documents/IIIrd-Sem-BCA/blob/main/Lab%20Programs/Java/Java%20Lab%20Programs%20-%20Part%20A.pdf)) |
+| **A6** | Constructor Overloading Demonstration | Object initialization, parameterized constructors | ([`Part-A/ExConstructor.java`](https://github.com/sdc-bee-documents/IIIrd-Sem-BCA/blob/main/Lab%20Programs/Java/Java%20Lab%20Programs%20-%20Part%20A.pdf)) |
+| **A7** | Student Report via Applet | Applet viewer, HTML, Inheritance and Interface  | ([`Part-A/StudentReport.java`](https://github.com/sdc-bee-documents/IIIrd-Sem-BCA/blob/main/Lab%20Programs/Java/Java%20Lab%20Programs%20-%20Part%20A.pdf)) |
+| **A8** | Bonus Calculation via Method Overloading | Compile-time polymorphism, signature differentiation | ([`Part-A/Bonus.java`](https://github.com/sdc-bee-documents/IIIrd-Sem-BCA/blob/main/Lab%20Programs/Java/Java%20Lab%20Programs%20-%20Part%20A.pdf)) |
+| **A9** | Ball Moving via Applet | Thread, Graphics and Applet | ([`Part-A/BallMoving.java`](https://github.com/sdc-bee-documents/IIIrd-Sem-BCA/blob/main/Lab%20Programs/Java/Java%20Lab%20Programs%20-%20Part%20A.pdf)) |
+| **A10 (a)** | Mouse Event via Applet | Applet viewer, HTML and Inheritance | ([`Part-A/Mouse.java`](https://github.com/sdc-bee-documents/IIIrd-Sem-BCA/blob/main/Lab%20Programs/Java/Java%20Lab%20Programs%20-%20Part%20A.pdf)) |
+| **A10 (b)** | Keyboard Event via Applet | Applet viewer, HTML and Inheritance | ([`Part-A/Keyboard.java`](https://github.com/sdc-bee-documents/IIIrd-Sem-BCA/blob/main/Lab%20Programs/Java/Java%20Lab%20Programs%20-%20Part%20A.pdf)) |
 
 ---
 
