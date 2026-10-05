@@ -30,7 +30,7 @@
 
 | # | Program Title | Key Concepts | Source File |
 |---|---|---|---|
-| **A1** | Factorial of Numbers via CLI | Command-line arguments, iterative/recursive math | `Part-A/Factorial.java` |
+| **A1** | Factorial of Numbers via CLI | Command-line arguments, iterative/recursive math | `Part-A/Factorial.java`([url](https://github.com/sdc-bee-documents/IIIrd-Sem-BCA/blob/main/Lab%20Programs/Java/Java%20Lab%20Programs%20-%20Part%20A.pdf)) |
 | **A2** | Prime Numbers Between Two Limits | Range searching, primality test algorithms | `Part-A/Prime.java` |
 | **A3** | Array Sorting with Exception Handling | ASC/DESC sorting, `try-catch-finally`, bounds check | `Part-A/Sort.java` |
 | **A4** | Comprehensive String Operations | String manipulation, immutability, built-in methods | `Part-A/StrOper.java` |
