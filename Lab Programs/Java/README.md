@@ -48,16 +48,16 @@
 
 | # | Program Title | Key Concepts | Source File |
 |---|---|---|---|
-| **B1** | Cloth Showroom Discount Calculator | Nested conditions, `switch-case`, discount matrices | `Part-B/Showroom.java` |
-| **B2** | First N Values of Fibonacci Series | Iteration, series progression, boundary conditions | `Part-B/Fibonacci.java` |
-| **B3** | Matrix Multiplication ($C = A \times B$) | 2D arrays, nested loops, matrix product rules | `Part-B/Product.java` |
-| **B4** | Lexicographical String Sorting | String comparison (`compareTo`), lexicographical sort | `Part-B/Alphabetical.java` |
-| **B5** | Class & Object Encapsulation | State/behavior abstraction, instantiations, getters/setters | `Part-B/Rectangle.java` |
-| **B6** | Multiple Inheritance via Interfaces | Interface implementation, resolving multiple inheritance | `Part-B/Multiple.java` |
-| **B7** | Multithreaded Programming Suite | Thread lifecycle, `Thread` class, `Runnable` interface | `Part-B/Multithread.java` |
-| **B8** | Sum using User Input via Applet | Thread lifecycle, `Thread` class, Applet and Inheritance | `Part-B/Userinput.java` |
-| **B9** | Face Diagram via Applet | Thread lifecycle, `Thread` class, Applet and Inheritance | `Part-B/Face.java` |
-| **B10** | Bar Chart via Applet | Thread lifecycle, `Thread` class, Applet and Inheritance | `Part-B/ExBarchart.java` |
+| **B1** | Cloth Showroom Discount Calculator | Nested conditions, `switch-case`, discount matrices | ([`Part-B/Showroom.java`](https://github.com/sdc-bee-documents/IIIrd-Sem-BCA/blob/main/Lab%20Programs/Java/Java%20Lab%20Programs%20-%20Part%20B.pdf)) |
+| **B2** | First N Values of Fibonacci Series | Iteration, series progression, boundary conditions | ([`Part-B/Fibonacci.java`](https://github.com/sdc-bee-documents/IIIrd-Sem-BCA/blob/main/Lab%20Programs/Java/Java%20Lab%20Programs%20-%20Part%20B.pdf)) |
+| **B3** | Matrix Multiplication ($C = A \times B$) | 2D arrays, nested loops, matrix product rules | ([`Part-B/Product.java`](https://github.com/sdc-bee-documents/IIIrd-Sem-BCA/blob/main/Lab%20Programs/Java/Java%20Lab%20Programs%20-%20Part%20B.pdf)) |
+| **B4** | Lexicographical String Sorting | String comparison (`compareTo`), lexicographical sort | ([`Part-B/Alphabetical.java`](https://github.com/sdc-bee-documents/IIIrd-Sem-BCA/blob/main/Lab%20Programs/Java/Java%20Lab%20Programs%20-%20Part%20B.pdf)) |
+| **B5** | Class & Object Encapsulation | State/behavior abstraction, instantiations, getters/setters | ([`Part-B/Rectangle.java`](https://github.com/sdc-bee-documents/IIIrd-Sem-BCA/blob/main/Lab%20Programs/Java/Java%20Lab%20Programs%20-%20Part%20B.pdf)) |
+| **B6** | Multiple Inheritance via Interfaces | Interface implementation, resolving multiple inheritance | ([`Part-B/Multiple.java`](https://github.com/sdc-bee-documents/IIIrd-Sem-BCA/blob/main/Lab%20Programs/Java/Java%20Lab%20Programs%20-%20Part%20B.pdf)) |
+| **B7** | Multithreaded Programming Suite | Thread lifecycle, `Thread` class, `Runnable` interface | ([`Part-B/Multithread.java`](https://github.com/sdc-bee-documents/IIIrd-Sem-BCA/blob/main/Lab%20Programs/Java/Java%20Lab%20Programs%20-%20Part%20B.pdf)) |
+| **B8** | Sum using User Input via Applet | Thread lifecycle, `Thread` class, Applet and Inheritance | ([`Part-B/Userinput.java`](https://github.com/sdc-bee-documents/IIIrd-Sem-BCA/blob/main/Lab%20Programs/Java/Java%20Lab%20Programs%20-%20Part%20B.pdf)) |
+| **B9** | Face Diagram via Applet | Thread lifecycle, `Thread` class, Applet and Inheritance | ([`Part-B/Face.java`](https://github.com/sdc-bee-documents/IIIrd-Sem-BCA/blob/main/Lab%20Programs/Java/Java%20Lab%20Programs%20-%20Part%20B.pdf)) |
+| **B10** | Bar Chart via Applet | Thread lifecycle, `Thread` class, Applet and Inheritance | ([`Part-B/ExBarchart.java`](https://github.com/sdc-bee-documents/IIIrd-Sem-BCA/blob/main/Lab%20Programs/Java/Java%20Lab%20Programs%20-%20Part%20B.pdf)) |
 
 ---
 
