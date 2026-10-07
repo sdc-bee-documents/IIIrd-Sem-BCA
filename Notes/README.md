@@ -1,4 +1,4 @@
-# 📓 Core Java — BCA Semester III Study Notes
+# 📓 BCA Semester III Study Notes
 
 ---
 
@@ -10,7 +10,7 @@
 | **Designation** | Assistant Professor |
 | **Department** | Department of Computer Applications (BCA) & Department of Post Gradutate (PG) |
 | **Course Taught** | BCA Semester III |
-| **Institution** | [SDC College for Arts, Commerce, Science and Management Studies] |
+| **Institution** | SDC College for Arts, Commerce, Science and Management Studies |
 | **Academic Session** | SEP - Bangalore North University |
 
 > *"This study material is curated exclusively for academic and reference purposes for BCA III Semester students as per the prescribed university curriculum."*
