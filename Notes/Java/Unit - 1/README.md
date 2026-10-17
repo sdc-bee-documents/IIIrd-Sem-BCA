@@ -32,7 +32,7 @@ Fundamental syntax, JVM architecture, basic data types, and primary flow-control
 - [ ] **Chapter 3 - Constants, Variables and Data Types:** [Read Notes](https://github.com/sdc-bee-documents/IIIrd-Sem-BCA/blob/main/Notes/Java/Unit%20-%201/Chapter%203%20-%20Constants%2C%20Variables%20and%20Data%20types.pdf)
   - Primitive data types, memory footprints, and default values
   - Type conversion, type casting, identifiers, and literals
-- [ ] **Chapter 4 - Operators and Expressions:** [Read Notes](./Unit-1/Chapter-4-Operators-and-Expressions.md)
+- [ ] **Chapter 4 - Operators and Expressions:** [Read Notes](https://github.com/sdc-bee-documents/IIIrd-Sem-BCA/blob/main/Notes/Java/Unit%20-%201/Chapter%204%20-%20Operators%20and%20Expressions.pdf)
   - Arithmetic, relational, logical, bitwise, assignment, and ternary operators
   - Operator precedence, associativity, and expression evaluation
 - [ ] **Chapter 5 - Decision Making and Branching:** [Read Notes](./Unit-1/Chapter-5-Decision-Making-and-Branching.md)
